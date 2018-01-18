@@ -1,10 +1,10 @@
 {
    "width":1920,
    "height":1080,
-   "top":32,
-   "left":281,
-   "bottom":32,
-   "right":285,
+   "top":26,
+   "left":277,
+   "bottom":25,
+   "right":288,
    "opacity":0.7000000,
    "messagex":0.220000,
    "messagey":0.120000

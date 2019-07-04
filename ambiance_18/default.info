@@ -1,11 +1,11 @@
 {
- "width":1920,
- "height":1080,
- "top":133,
- "left":362,
- "bottom":182,
- "right":550,
- "opacity":1.0000000,
- "messagex":0.200000,
- "messagey":0.200000
+   "width":1920,
+   "height":1080,
+   "top":32,
+   "left":277,
+   "bottom":42,
+   "right":266,
+   "opacity":1.0000000,
+   "messagex":0.220000,
+   "messagey":0.120000
 }

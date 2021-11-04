@@ -6,3 +6,4 @@ Each folder contains the "fallback" bezel in its root directory, and a bezel for
 
 The exception to this is the default set "default_unglazed". This (hopefully) contains a unique bezel for each system, so no fallback is required. Please try to be conservative about how flashy it is!
 
+In an installation of Batocera that is currently booted into, these files can be found at `/usr/share/batocera/datainit/decorations/`. You can edit these files to preview your changes.

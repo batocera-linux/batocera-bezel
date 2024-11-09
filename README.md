@@ -1,6 +1,6 @@
 # Batocera Decoration Sets
 
-The official bezels Batocera uses for its decoration sets. These are bundled with every install of Batocera and can be selected by the user from **MAIN MENU** -> **GAME SETTINGS** -> **DEROCATION SET**.
+The official bezels Batocera uses for its decoration sets. These are bundled with every install of Batocera and can be selected by the user from **MAIN MENU** -> **GAME SETTINGS** -> **DECORATION SET**.
 
 Each folder contains the "fallback" bezel in its root directory, and a bezel for each system in its system subfolder.
 
